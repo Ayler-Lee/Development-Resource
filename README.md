@@ -1,6 +1,7 @@
 # Development-Resource
 iOS 开发相关资源
 
+## 常用网站
 
 ## 相关应用
 
@@ -20,8 +21,10 @@ iOS 开发相关资源
 
 - Go2Shell : [http://zipzapmac.com/go2shell](http://zipzapmac.com/go2shell)
 
-- 印象笔记 : [https://www.yinxiang.com/download/?offer=www_menu](https://www.yinxiang.com/download/?offer=www_menu)
+- 印象笔记 : [https://www.yinxiang.com/](https://www.yinxiang.com/)
 
 - xMind : [http://www.xmindchina.net/](http://www.xmindchina.net/)
 
 - Yandex.Browser : [https://browser.yandex.com/desktop/main/](https://browser.yandex.com/desktop/main/)
+
+- 搜狗输入法 : [http://pinyin.sogou.com/mac/](http://pinyin.sogou.com/mac/)
