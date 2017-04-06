@@ -1,23 +1,9 @@
 # Development-Resource
-iOS 开发相关资源
+# iOS 开发相关资源
 
-## 常用网站
+## 软件应用
 
-GitHub : [https://github.com/](https://github.com/)
-
-苹果开发者 : [https://developer.apple.com/](https://developer.apple.com/)
-
-- 证书配置 : [https://developer.apple.com/account/ios/certificate/](https://developer.apple.com/account/ios/certificate/)
-- 官方文档 : [https://developer.apple.com/develop/](https://developer.apple.com/develop/)
-- WWDC 视频 : [https://developer.apple.com/videos/](https://developer.apple.com/videos/)
-
-iTunesConnect :  [https://itunesconnect.apple.com/](https://itunesconnect.apple.com/)
-
-
-
-## 相关应用
-
- - SourceTree : [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
+- SourceTree : [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
 
 - iTools : [http://www.itools.cn/](http://www.itools.cn/)
 
@@ -40,3 +26,15 @@ iTunesConnect :  [https://itunesconnect.apple.com/](https://itunesconnect.apple.
 - Yandex.Browser : [https://browser.yandex.com/desktop/main/](https://browser.yandex.com/desktop/main/)
 
 - 搜狗输入法 : [http://pinyin.sogou.com/mac/](http://pinyin.sogou.com/mac/)
+
+## 常用网站
+	
+GitHub : [https://github.com/](https://github.com/)
+	
+苹果开发者 : [https://developer.apple.com/](https://developer.apple.com/)
+	
+- 证书配置 : [https://developer.apple.com/account/ios/certificate/](https://developer.apple.com/account/ios/certificate/)
+- 官方文档 : [https://developer.apple.com/develop/](https://developer.apple.com/develop/)
+- WWDC 视频 : [https://developer.apple.com/videos/](https://developer.apple.com/videos/)
+	
+iTunesConnect :  [https://itunesconnect.apple.com/](https://itunesconnect.apple.com/)
