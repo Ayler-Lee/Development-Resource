@@ -3,16 +3,38 @@
 
 ## 一. 软件应用
 
-- ###  SourceTree
+#### 1. SourceTree
+
 > Simplicity and power in a beautiful Git GUI
 
-[https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
 
-- iTools : [http://www.itools.cn/](http://www.itools.cn/)
+![](https://www.sourcetreeapp.com/dam/jcr:580c367b-c240-453d-aa18-c7ced44324f9/hero-mac-screenshot.png?cdnVersion=fr)
+
+SourceTree: [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
+
+
+#### 2. Chrome
+
+![](https://www.google.cn/chrome/assets/common/images/marquee/benefits-5-mobile_2x.png)
+
+- Chrome: [https://www.google.cn/chrome/browser/desktop/index.html](https://www.google.cn/chrome/browser/desktop/index.html)
+
+大陆镜像站: [http://www.chromeliulanqi.com/](http://www.chromeliulanqi.com/)
+
+
+#### 3. Postman
+
+> Developing APIs is hard, Postman makes it easy
+
+![](https://www.getpostman.com/img/v2/homepage/express-api-development.png)
+
+Postman : [https://www.getpostman.com/](https://www.getpostman.com/)
+
 
 - MacDown : [http://macdown.uranusjr.com/](http://macdown.uranusjr.com/)
 
 - Typora : [https://www.typora.io/](https://www.typora.io/)
+
 
 - Dash : [https://kapeli.com/dash](https://kapeli.com/dash)
 
@@ -29,6 +51,11 @@
 - Yandex.Browser : [https://browser.yandex.com/desktop/main/](https://browser.yandex.com/desktop/main/)
 
 - 搜狗输入法 : [http://pinyin.sogou.com/mac/](http://pinyin.sogou.com/mac/)
+
+
+- iTools : [http://www.itools.cn/](http://www.itools.cn/)
+
+> iPhone 管理工具
 
 ## 常用网站
 	
