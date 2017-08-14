@@ -1,9 +1,12 @@
 # Development-Resource
 # iOS 开发相关资源
 
-## 软件应用
+## 一. 软件应用
 
-- SourceTree : [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
+- ###  SourceTree
+> Simplicity and power in a beautiful Git GUI
+
+[https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
 
 - iTools : [http://www.itools.cn/](http://www.itools.cn/)
 
