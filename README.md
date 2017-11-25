@@ -107,7 +107,13 @@
 
 - Yandex.Browser : [https://browser.yandex.com/desktop/main/](https://browser.yandex.com/desktop/main/)
 
+#### 12. Kap
+> Capture your screen
+> An open-source screen recorder built with web technology
 
+![](https://getkap.co/images/kap-app@2x.png)
+
+- Kap :[https://getkap.co/](https://getkap.co/)
 
 ## 常用网站
 	
